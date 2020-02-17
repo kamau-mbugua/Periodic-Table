@@ -1,0 +1,26 @@
+===================================================================================
+Set path
+
+if u have installed jdk 1.4.7 or higher (it would be better used jdk 1.6.0) in  "C:\Program Files\Java\jdk1.6.0\bin"
+type : "set path=C:\Program Files\Java\jdk1.6.0\bin" on command promp(cmd.exe)
+
+===================================================================================
+save TABEL PERIODIK on drive c:\
+===================================================================================
+setting database
+
+1.	click start button
+2.	click control panel>Administrative Tools>Data Sources(ODBC)
+3.	click User DSN tab, then click Add... button
+4. 	double click Microsoft Access Driver (*.mdb)
+5.	type "periodik" on Data Source Name, then click select button in Database 
+	then select unsur.mdb from the folder TABEL PERIODIK
+6.	click ok and click ok finish
+
+===================================================================================
+===================================================================================
+RUN
+
+Execute the "Sistem Periodik.bat"
+
+===================================================================================
